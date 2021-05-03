@@ -9,4 +9,5 @@
     - git commit -m "your message here".
   * P (Push).
     - git push origin main.
-    >then you should enter your username and Password for the github.
+    >then you should enter your username and Password for your github.
+
