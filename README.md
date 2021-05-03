@@ -19,8 +19,8 @@
 
 | file Name(Lab name) | File Live URL | File Repo Link|
 | ------| -----------|--------|
-| reading-notes |[reading-notes](http://patatatech.me/reading-notes/)|[reading-notes-repo](https://github.com/FarahJamal/reading-notes)|
-| Task1 | [Task2](http://patatatech.me/Second_Task/)|[Task2-Repo](https://github.com/FarahJamal/Second_Task/edit/main/README.md)|
-| Task3 |[Task3](http://patatatech.me/ThirdTask/)|[Task3-Repo](https://github.com/FarahJamal/ThirdTask)|
+|MarkDown language |[MarkDown-lang Summary](http://patatatech.me/reading-notes/)|[MarkDown lang-repo](https://github.com/FarahJamal/reading-notes)|
+| Mindset | [Mindset](http://patatatech.me/Second_Task/)|[Mindset-Repo](https://github.com/FarahJamal/Second_Task/edit/main/README.md)|
+| MarkDown and git  Summary |[MarkDown and git  Summary](http://patatatech.me/ThirdTask/)|[MarkDown and git  Summary-Repo](https://github.com/FarahJamal/ThirdTask)|
 |what git teach me?|[learned things](http://patatatech.me/Git-Task/TodayLesson)|[learned things repo](https://github.com/FarahJamal/Git-Task/blob/main/TodayLesson.md)|
 
