@@ -1,22 +1,17 @@
 # Hello!😀😀
 ## it is me again <span style="color:red;">Farah Jamal</span>. 💁
 # Introduction.
-<<<<<<< HEAD
 
 * I am 22 years old I have graduated from Al-Balqa'a Applied University with a bachelor's degree  in computer science. 💻
 * actually I am Android Developer 📱 and cyber security Hobbyist 🔐.
 * I am always trying to learn new things and since 3 days ago I have started a new way for my life to become a full stack developer at ASAC.🙌
 * I have learned such amazing things these days and I will show what I have learned.😎😎
-=======
 * I am 22 years old I have graduated from Al-Balqa'a Applied University with a bachelor's degree  in computer science.
 * actually I am Android Developer and cyber security Hobbyist.
 * I am always trying to learn new things and since 3 days ago I have started a new way for my life to become a full stack developer at ASAC.
 * I have learned such amazing things these days and I will show what I have learned.
->>>>>>> cf86f0169483c7c2a5c21695b4fd038d5ecf299d
 
 # table of content
-
-
 | file Name(Lab name) | File Live URL | File Repo Link|
 | ------| -----------|--------|
 |MarkDown language |[MarkDown-lang Summary](http://patatatech.me/reading-notes/)|[MarkDown lang-repo](https://github.com/FarahJamal/reading-notes)|
