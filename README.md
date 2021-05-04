@@ -15,6 +15,6 @@
 |read00 | [Mindset](http://patatatech.me/Second_Task/)|[Mindset-Repo](https://github.com/FarahJamal/Second_Task/edit/main/README.md)|
 |read01  |[MarkDown-lang Summary](http://patatatech.me/reading-notes/)|[MarkDown lang-repo](https://github.com/FarahJamal/reading-notes)|
 |read02 |[MarkDown and git  Summary](http://patatatech.me/ThirdTask/)|[MarkDown and git  Summary-Repo](https://github.com/FarahJamal/ThirdTask)|
-|read03  |[learned things](http://patatatech.me/Git-Task/TodayLesson)|[learned things repo](https://github.com/FarahJamal/Git-Task/blob/main/TodayLesson.md)|
-|read03b  |[css summary](http://patatatech.me/Git-Task/CSS)|[css-summary-Repo](https://github.com/FarahJamal/Git-Task/blob/main/CSS.md)
+|read03  |[learned things](http://patatatech.me/readingNotes102/TodayLesson)|[learned things repo](https://github.com/FarahJamal/readingNotes102/blob/main/TodayLesson.md)|
+|read03b  |[css summary](http://patatatech.me/readingNotes102/CSS)|[css-summary-Repo](https://github.com/FarahJamal/readingNotes102/blob/main/CSS.md)
 
