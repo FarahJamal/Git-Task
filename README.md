@@ -19,5 +19,5 @@
 | Mindset | [Mindset](http://patatatech.me/Second_Task/)|[Mindset-Repo](https://github.com/FarahJamal/Second_Task/edit/main/README.md)|
 | MarkDown and git  Summary |[MarkDown and git  Summary](http://patatatech.me/ThirdTask/)|[MarkDown and git  Summary-Repo](https://github.com/FarahJamal/ThirdTask)|
 |what git teach me?|[learned things](http://patatatech.me/Git-Task/TodayLesson)|[learned things repo](https://github.com/FarahJamal/Git-Task/blob/main/TodayLesson.md)|
-|CSS Summary|[css summary](https://replit.com/@farahsarese98/Git-Task#CSS.md)|
+|CSS Summary|[css summary](http://patatatech.me/Git-Task/CSS)|[css-summary-Repo](https://github.com/FarahJamal/Git-Task/blob/main/CSS.md)
 
