@@ -12,7 +12,6 @@
 
 | file Name(Lab name) | File Live URL | File Repo Link|
 | ------| -----------|--------|
-
 |read00 | [Mindset](http://patatatech.me/Second_Task/)|[Mindset-Repo](https://github.com/FarahJamal/Second_Task/edit/main/README.md)|
 |read01  |[MarkDown-lang Summary](http://patatatech.me/reading-notes/)|[MarkDown lang-repo](https://github.com/FarahJamal/reading-notes)|
 |read02 |[MarkDown and git  Summary](http://patatatech.me/ThirdTask/)|[MarkDown and git  Summary-Repo](https://github.com/FarahJamal/ThirdTask)|
