@@ -47,7 +47,7 @@
 
 * The external .css file should not contain any HTML tags.
 
-`<link rel="stylesheet" href="mystyle.css">`
+```<link rel="stylesheet" href="mystyle.css">```
 
 # Internal CSS
 * An internal style sheet may be used if one single HTML page has a unique style.
@@ -71,7 +71,7 @@ h1 {
 
 * To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
-`<h1 style="color:blue;text-align:center;">This is a heading</h1>`.
+```<h1 style="color:blue;text-align:center;">This is a heading</h1>```.
 
 # Multiple Style Sheets
 
