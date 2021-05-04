@@ -16,5 +16,5 @@
 |read01  |[MarkDown-lang Summary](http://patatatech.me/reading-notes/)|[MarkDown lang-repo](https://github.com/FarahJamal/reading-notes)|
 |read02 |[MarkDown and git  Summary](http://patatatech.me/ThirdTask/)|[MarkDown and git  Summary-Repo](https://github.com/FarahJamal/ThirdTask)|
 |read03  |[learned things](http://patatatech.me/Git-Task/TodayLesson)|[learned things repo](https://github.com/FarahJamal/Git-Task/blob/main/TodayLesson.md)|
-|read04  |[css summary](http://patatatech.me/Git-Task/CSS)|[css-summary-Repo](https://github.com/FarahJamal/Git-Task/blob/main/CSS.md)
+|read03b  |[css summary](http://patatatech.me/Git-Task/CSS)|[css-summary-Repo](https://github.com/FarahJamal/Git-Task/blob/main/CSS.md)
 
