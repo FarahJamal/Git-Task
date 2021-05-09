@@ -19,5 +19,5 @@
 |read03b  |[css summary](http://patatatech.me/readingNotes102/CSS)|[css-summary-Repo](https://github.com/FarahJamal/readingNotes102/blob/main/CSS.md)
 |read04a|[JavaScript](http://patatatech.me/readingNotes102/read04a)|[JavaScript-Repo](https://github.com/FarahJamal/readingNotes102)|
 |read05|[For-Loops](http://patatatech.me/readingNotes102/read05)|[For-Loops-Repo](https://github.com/FarahJamal/readingNotes102)|
-|read06|[function]()|[functions]()|
+|read06|[function](http://patatatech.me/readingNotes102/read06)|[functions](https://github.com/FarahJamal/readingNotes102/blob/main/read06.md)|
 
